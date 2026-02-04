@@ -1,43 +1,29 @@
-✨ Features 
+# task-manager
 
-Task Management: Create, edit, delete, and mark tasks as complete
-Filtering: Filter tasks by status (All, Completed, Pending)
-Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
-Modal Interface: Clean modal-based form for adding new tasks
-Real-time Statistics: Track total, completed, and pending tasks
-Form Validation: Client-side validation with error messages
+This template should help get you started developing with Vue 3 in Vite.
 
-🛠 Technologies Used
+## Recommended IDE Setup
 
-Vue 3 - Progressive JavaScript framework
-Composition API - Vue's modern API for component logic
-Vite - Next-generation frontend tooling
-SCSS - Advanced CSS with variables and nesting
-JavaScript 
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-📋 Prerequisites
-Before you begin, ensure you have installed:
-Node.js 
-npm 
+## Customize configuration
 
-🚀 Installation & Setup
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-Clone the repository
-bash
+## Project Setup
 
-git clone 
-
-
-Install dependencies
-
-bash
+```sh
 npm install
+```
 
-Start the development server
+### Compile and Hot-Reload for Development
 
-bash
-
+```sh
 npm run dev
+```
 
-Open in browser
-Navigate to http://localhost:5173 
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
