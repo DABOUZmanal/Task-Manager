@@ -8,6 +8,7 @@ Real-time Statistics: Track total, completed, and pending tasks
 Form Validation: Client-side validation with error messages
 
 🛠 Technologies Used
+
 Vue 3 - Progressive JavaScript framework
 Composition API - Vue's modern API for component logic
 Vite - Next-generation frontend tooling
