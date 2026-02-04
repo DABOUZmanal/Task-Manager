@@ -6,8 +6,6 @@ Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
 Modal Interface: Clean modal-based form for adding new tasks
 Real-time Statistics: Track total, completed, and pending tasks
 Form Validation: Client-side validation with error messages
-Keyboard Support: Close modals with ESC key, submit with Enter
-Visual Feedback: Animations and hover effects for better UX
 
 🛠 Technologies Used
 Vue 3 - Progressive JavaScript framework
