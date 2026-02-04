@@ -51,4 +51,4 @@ bash
 npm run dev
 
 Open in browser
-Navigate to http://localhost:5173 (or the port shown in your terminal)
+Navigate to http://localhost:5173 
