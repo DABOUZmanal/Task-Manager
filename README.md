@@ -27,7 +27,6 @@ bash
 
 git clone 
 
-cd vue-task-manager
 
 Install dependencies
 
