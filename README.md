@@ -21,11 +21,16 @@ Node.js
 npm 
 
 🚀 Installation & Setup
+
 Clone the repository
 bash
+
 git clone 
+
 cd vue-task-manager
+
 Install dependencies
+
 bash
 npm install
 
